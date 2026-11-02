@@ -1,0 +1,17 @@
+{
+  "name": "meu-projeto-automacao",
+  "version": "1.0.0",
+  "description": "Arquitetura E2E com Playwright + TypeScript: POM, Fixture de Sessão e Data-Driven (LojaQA)",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
