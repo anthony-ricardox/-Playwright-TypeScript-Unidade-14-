@@ -1,7 +1,7 @@
 # Arquitetura E2E — POM, Fixture de Sessão e Data-Driven
 
 Atividade Prática 2 — Playwright & TypeScript (Unidade 14) · Aponti Academy
-Autor: Lucas Vitor Ferreira Santos
+Autor: Anthony Ricardo
 
 ## Plataforma escolhida
 
